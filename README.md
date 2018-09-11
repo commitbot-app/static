@@ -1,0 +1,2 @@
+# static
+Front Page
